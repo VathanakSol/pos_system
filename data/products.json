@@ -1,0 +1,62 @@
+[
+  {
+    "product_id": 1,
+    "name": "Apple",
+    "price": 0.5,
+    "stock": 75
+  },
+  {
+    "product_id": 2,
+    "name": "Banana",
+    "price": 0.3,
+    "stock": 150
+  },
+  {
+    "product_id": 3,
+    "name": "Milk (1L)",
+    "price": 1.2,
+    "stock": 48
+  },
+  {
+    "product_id": 4,
+    "name": "Bread",
+    "price": 2.5,
+    "stock": 30
+  },
+  {
+    "product_id": 5,
+    "name": "Eggs (12pk)",
+    "price": 3.0,
+    "stock": 10
+  },
+  {
+    "product_id": 6,
+    "name": "Cheese",
+    "price": 4.5,
+    "stock": 20
+  },
+  {
+    "product_id": 7,
+    "name": "Water (500ml)",
+    "price": 0.8,
+    "stock": 152
+  },
+  {
+    "product_id": 8,
+    "name": "Coffee",
+    "price": 6.0,
+    "stock": 25
+  },
+  {
+    "product_id": 9,
+    "name": "Lemon Tea",
+    "price": 1.5,
+    "stock": 10
+  },
+  {
+    "product_id": 10,
+    "name": "Crisp Potato",
+    "price": 0.25,
+    "stock": 100
+  }
+]

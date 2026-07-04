@@ -1,0 +1,34 @@
+[
+  {
+    "order_id": 1001,
+    "timestamp": "2026-07-04 10:35:45",
+    "items": [
+      {
+        "product_id": 3,
+        "name": "Milk (1L)",
+        "price": 1.2,
+        "quantity": 2,
+        "subtotal": 2.4
+      }
+    ],
+    "subtotal": 2.4,
+    "tax": 0.19,
+    "total": 2.59
+  },
+  {
+    "order_id": 1002,
+    "timestamp": "2026-07-04 10:38:33",
+    "items": [
+      {
+        "product_id": 4,
+        "name": "Bread",
+        "price": 2.5,
+        "quantity": 10,
+        "subtotal": 25.0
+      }
+    ],
+    "subtotal": 25.0,
+    "tax": 2.0,
+    "total": 27.0
+  }
+]
